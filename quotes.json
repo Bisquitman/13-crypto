@@ -1,0 +1,682 @@
+{
+  "LTC": [
+    {
+      "timestamp": 1707670604413,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670609415,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670614430,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670619431,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670624437,
+      "price_USD": 72.16,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670629629,
+      "price_USD": 72.16,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670634903,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670639868,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670644717,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670649497,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670654484,
+      "price_USD": 72.15,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670659497,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670664633,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670669516,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670674547,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670679581,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670684538,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670689539,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670694546,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670699550,
+      "price_USD": 72.15,
+      "price_EUR": 66.58
+    },
+    {
+      "timestamp": 1707670704574,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670709573,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670714592,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    },
+    {
+      "timestamp": 1707670719708,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    },
+    {
+      "timestamp": 1707670724609,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670729608,
+      "price_USD": 72.14,
+      "price_EUR": 66.57
+    },
+    {
+      "timestamp": 1707670734642,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    },
+    {
+      "timestamp": 1707670739635,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    },
+    {
+      "timestamp": 1707670744652,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    },
+    {
+      "timestamp": 1707670749771,
+      "price_USD": 72.13,
+      "price_EUR": 66.56
+    }
+  ],
+  "DOGE": [
+    {
+      "timestamp": 1707670604413,
+      "price_USD": 0.08206,
+      "price_EUR": 0.07573
+    },
+    {
+      "timestamp": 1707670609415,
+      "price_USD": 0.08206,
+      "price_EUR": 0.07573
+    },
+    {
+      "timestamp": 1707670614430,
+      "price_USD": 0.08206,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670619431,
+      "price_USD": 0.08206,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670624437,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670629629,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670634903,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670639868,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670644717,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670649497,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670654484,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670659497,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670664633,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670669516,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670674547,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670679581,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670684538,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670689539,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07571
+    },
+    {
+      "timestamp": 1707670694546,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670699550,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670704574,
+      "price_USD": 0.08203,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670709573,
+      "price_USD": 0.08203,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670714592,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670719708,
+      "price_USD": 0.08204,
+      "price_EUR": 0.07572
+    },
+    {
+      "timestamp": 1707670724609,
+      "price_USD": 0.08205,
+      "price_EUR": 0.0757
+    },
+    {
+      "timestamp": 1707670729608,
+      "price_USD": 0.08205,
+      "price_EUR": 0.0757
+    },
+    {
+      "timestamp": 1707670734642,
+      "price_USD": 0.08205,
+      "price_EUR": 0.0757
+    },
+    {
+      "timestamp": 1707670739635,
+      "price_USD": 0.08205,
+      "price_EUR": 0.0757
+    },
+    {
+      "timestamp": 1707670744652,
+      "price_USD": 0.08202,
+      "price_EUR": 0.07569
+    },
+    {
+      "timestamp": 1707670749771,
+      "price_USD": 0.08202,
+      "price_EUR": 0.07569
+    }
+  ],
+  "ETC": [
+    {
+      "timestamp": 1707670604413,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670609415,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670614430,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670619431,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670624437,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670629629,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670634903,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670639868,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670644717,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670649497,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670654484,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670659497,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670664633,
+      "price_USD": 25.86,
+      "price_EUR": 23.87
+    },
+    {
+      "timestamp": 1707670669516,
+      "price_USD": 25.86,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670674547,
+      "price_USD": 25.86,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670679581,
+      "price_USD": 25.85,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670684538,
+      "price_USD": 25.85,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670689539,
+      "price_USD": 25.85,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670694546,
+      "price_USD": 25.85,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670699550,
+      "price_USD": 25.85,
+      "price_EUR": 23.86
+    },
+    {
+      "timestamp": 1707670704574,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670709573,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670714592,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670719708,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670724609,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670729608,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670734642,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670739635,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670744652,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    },
+    {
+      "timestamp": 1707670749771,
+      "price_USD": 25.84,
+      "price_EUR": 23.85
+    }
+  ],
+  "BTC": [
+    {
+      "timestamp": 1707670644717,
+      "price_USD": 48146.95,
+      "price_EUR": 44431.11
+    },
+    {
+      "timestamp": 1707670649497,
+      "price_USD": 48146.95,
+      "price_EUR": 44431.11
+    },
+    {
+      "timestamp": 1707670654484,
+      "price_USD": 48146.95,
+      "price_EUR": 44431.11
+    },
+    {
+      "timestamp": 1707670659497,
+      "price_USD": 48146.74,
+      "price_EUR": 44429.51
+    },
+    {
+      "timestamp": 1707670664633,
+      "price_USD": 48146.74,
+      "price_EUR": 44429.51
+    },
+    {
+      "timestamp": 1707670669516,
+      "price_USD": 48140.77,
+      "price_EUR": 44430.03
+    },
+    {
+      "timestamp": 1707670674547,
+      "price_USD": 48140.77,
+      "price_EUR": 44430.03
+    },
+    {
+      "timestamp": 1707670679581,
+      "price_USD": 48138.07,
+      "price_EUR": 44424.62
+    },
+    {
+      "timestamp": 1707670684538,
+      "price_USD": 48138.07,
+      "price_EUR": 44424.62
+    },
+    {
+      "timestamp": 1707670689539,
+      "price_USD": 48138.07,
+      "price_EUR": 44424.62
+    },
+    {
+      "timestamp": 1707670694546,
+      "price_USD": 48134.76,
+      "price_EUR": 44425.2
+    },
+    {
+      "timestamp": 1707670699550,
+      "price_USD": 48134.76,
+      "price_EUR": 44425.2
+    },
+    {
+      "timestamp": 1707670704574,
+      "price_USD": 48133.28,
+      "price_EUR": 44424.09
+    },
+    {
+      "timestamp": 1707670709573,
+      "price_USD": 48133.28,
+      "price_EUR": 44424.09
+    },
+    {
+      "timestamp": 1707670714592,
+      "price_USD": 48134.25,
+      "price_EUR": 44421.51
+    },
+    {
+      "timestamp": 1707670719708,
+      "price_USD": 48134.25,
+      "price_EUR": 44421.51
+    },
+    {
+      "timestamp": 1707670724609,
+      "price_USD": 48131.57,
+      "price_EUR": 44419.28
+    },
+    {
+      "timestamp": 1707670729608,
+      "price_USD": 48131.57,
+      "price_EUR": 44419.28
+    },
+    {
+      "timestamp": 1707670734642,
+      "price_USD": 48126.77,
+      "price_EUR": 44413.15
+    },
+    {
+      "timestamp": 1707670739635,
+      "price_USD": 48126.77,
+      "price_EUR": 44413.15
+    },
+    {
+      "timestamp": 1707670744652,
+      "price_USD": 48121.35,
+      "price_EUR": 44409.26
+    },
+    {
+      "timestamp": 1707670749771,
+      "price_USD": 48121.35,
+      "price_EUR": 44409.26
+    }
+  ],
+  "ETH": [
+    {
+      "timestamp": 1707670644717,
+      "price_USD": 2510.22,
+      "price_EUR": 2316.4
+    },
+    {
+      "timestamp": 1707670649497,
+      "price_USD": 2510.22,
+      "price_EUR": 2316.4
+    },
+    {
+      "timestamp": 1707670654484,
+      "price_USD": 2510.22,
+      "price_EUR": 2316.4
+    },
+    {
+      "timestamp": 1707670659497,
+      "price_USD": 2510.21,
+      "price_EUR": 2316.42
+    },
+    {
+      "timestamp": 1707670664633,
+      "price_USD": 2510.21,
+      "price_EUR": 2316.42
+    },
+    {
+      "timestamp": 1707670669516,
+      "price_USD": 2510.16,
+      "price_EUR": 2316.45
+    },
+    {
+      "timestamp": 1707670674547,
+      "price_USD": 2510.16,
+      "price_EUR": 2316.45
+    },
+    {
+      "timestamp": 1707670679581,
+      "price_USD": 2510.12,
+      "price_EUR": 2316.43
+    },
+    {
+      "timestamp": 1707670684538,
+      "price_USD": 2510.12,
+      "price_EUR": 2316.43
+    },
+    {
+      "timestamp": 1707670689539,
+      "price_USD": 2510.12,
+      "price_EUR": 2316.43
+    },
+    {
+      "timestamp": 1707670694546,
+      "price_USD": 2510.07,
+      "price_EUR": 2316.17
+    },
+    {
+      "timestamp": 1707670699550,
+      "price_USD": 2510.07,
+      "price_EUR": 2316.17
+    },
+    {
+      "timestamp": 1707670704574,
+      "price_USD": 2509.93,
+      "price_EUR": 2316.22
+    },
+    {
+      "timestamp": 1707670709573,
+      "price_USD": 2509.93,
+      "price_EUR": 2316.22
+    },
+    {
+      "timestamp": 1707670714592,
+      "price_USD": 2509.9,
+      "price_EUR": 2316.15
+    },
+    {
+      "timestamp": 1707670719708,
+      "price_USD": 2509.9,
+      "price_EUR": 2316.15
+    },
+    {
+      "timestamp": 1707670724609,
+      "price_USD": 2509.88,
+      "price_EUR": 2316.07
+    },
+    {
+      "timestamp": 1707670729608,
+      "price_USD": 2509.88,
+      "price_EUR": 2316.07
+    },
+    {
+      "timestamp": 1707670734642,
+      "price_USD": 2509.25,
+      "price_EUR": 2315.5
+    },
+    {
+      "timestamp": 1707670739635,
+      "price_USD": 2509.25,
+      "price_EUR": 2315.5
+    },
+    {
+      "timestamp": 1707670744652,
+      "price_USD": 2509.24,
+      "price_EUR": 2315.69
+    },
+    {
+      "timestamp": 1707670749771,
+      "price_USD": 2509.24,
+      "price_EUR": 2315.69
+    }
+  ]
+}
